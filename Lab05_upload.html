@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="utf-8">
+   <title>Lab 04</title>
+    <script src="jquery-3.3.1.js"></script>
+    <script src="bootstrap-4/js/bootstrap.js"></script>
+    <link rel="stylesheet" type="text/css" href="bootstrap-4/css/bootstrap.css" >
+</head>
+<body>
+<div class="container" >
+
+    <div class="row ">
+        <div class="col-sm-4 text-center" >
+            <h2 class="" >Share Your Travels</h2>
+            <em class="" >Let's know where you've been</em>
+        </div>
+
+
+        <nav class="col-sm-8">
+            <ul class="nav nav-justified">
+                <li class="nav-item "><a class="disabled" href="Lab05_upload.html">Gallery</a> </li>
+                <li class="nav-item"><a class="disabled" href="#">Related Photo</a> </li>
+                <li class="nav-item"><a class="disabled" href="#">Reviews</a> </li>
+            </ul>
+
+        </nav>
+
+    </div>
+</div>
+<main class="container">
+   <section class="">
+   <form class="card" method="post"   action="http://www.randyconnolly.com/tests/process.php">
+       <fieldset class="card-body">
+           <legend>PHOTO DETAILS</legend>
+
+
+
+
+                       <div class="form-group">
+                       <label>Title</label>
+                       <input class="form-control" type="text" placeholder="Give your photo a descriptive name" name="title">
+                       </div>
+                       <div class="form-group">
+                       <label>Description</label>
+                       <textarea class="form-control" placeholder="Adding a rich description will help search results" ></textarea>
+                       </div>
+
+
+
+
+                <div class="form-group">
+                       <label>Choose continent</label>
+                       <select name="21" class="form-control">
+                           <option value="Choose continent" >Choose continent</option>
+                           <option value="Asia" >Asia</option>
+                       </select>
+
+                </div>
+                  <div class="form-group">
+                      <label>Country</label>
+                       <select name="22" class="form-control" >
+                            <option value="Choose Country" >Choose Country</option>
+                            <option  value="China" >China</option>
+                       </select>
+
+                  </div>
+
+                   <div class="form-group">
+                       <label>City</label>
+                       <input class="form-control" type="text" name="city">
+                   </div>
+
+
+                       <div class="form-group">
+                       <label>Copyright?</label>
+                           <br>
+                       <input class="" type="radio" name="copyright" value="all_rights_reserve">All rights reserved
+                       <br>
+                       <input class="" type="radio" name="copyright" value="Creative_Commons" checked>Creative Commons
+                       </div>
+
+
+
+                           <label>Creative Commons Types</label>
+                         <div class="form-check-inline">
+                           <input  type="checkbox" name="checkbox" value="Attribution">Attribution
+                           <input  type="checkbox" name="checkbox" value="Noncommercial">Noncommercial
+                           <input  type="checkbox" name="checkbox" value="No Derivative Works">No Derivative Works
+                       </div>
+
+                      <br>
+
+
+
+                       <div class="form-group">
+
+                       <input type="checkbox" name="Accept" >  I accept the software license
+                       </div>
+
+
+               <div class="form-group">
+
+                       <label>Rate this photo</label>
+                       <input class="form-control" type="number" name="rete">
+                       <label>Color Collection</label>
+                       <input class="form-control" type="color" name="color">
+
+
+                       <div class="form-group">
+                           <label >Date Taken</label>
+                           <input class="form-control "type="date" name="date">
+                           <label>Time Taken</label>
+                           <input class="form-control" type="time" name="time">
+                       </div>
+
+               </div>
+
+               <div class="form-group">
+
+                        <button type="submit" value="提交" class=" btn btn-inverse bg-dark text-white">Submit</button>
+                        <button type="reset" value="Clear Form" class=" btn btn-inverse bg-dark text-white" >Clear</button>
+               </div>
+
+       </fieldset>
+   </form>
+   </section>
+</main>  
+
+
+</body>
+</html>
