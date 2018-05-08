@@ -14,25 +14,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lab05_gallary.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab05_gallary.html">
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-              <folding>
-                <element signature="e#5179#5185#0" expanded="true" />
-                <element signature="e#5190#5196#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="136" lean-forward="false" selection-start-line="2" selection-start-column="136" selection-end-line="2" selection-end-column="136" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lab05_upload.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lab05_upload.html">
+      <file leaf-file-name="Lab06.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/Lab06.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="88" column="49" lean-forward="false" selection-start-line="88" selection-start-column="49" selection-end-line="88" selection-end-column="49" />
+            <state relative-caret-position="400">
+              <caret line="80" column="27" lean-forward="false" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lab06.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab06.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab06.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/lab06.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="20" column="31" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <folding>
+                <marker date="1525675437440" expanded="true" signature="469:934" ph="..." />
+                <marker date="1525675437440" expanded="true" signature="490:531" ph="..." />
+                <marker date="1525675437440" expanded="true" signature="551:595" ph="..." />
+                <marker date="1525675437440" expanded="true" signature="634:724" ph="..." />
+                <marker date="1525675437440" expanded="true" signature="655:686" ph="..." />
+                <marker date="1525675437440" expanded="true" signature="763:874" ph="..." />
+                <marker date="1525675437440" expanded="true" signature="784:836" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -43,6 +68,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -54,20 +80,29 @@
       <list>
         <option value="$PROJECT_DIR$/Lab04.html" />
         <option value="$PROJECT_DIR$/lab05.html" />
-        <option value="$PROJECT_DIR$/lab05_gallary.html" />
         <option value="$PROJECT_DIR$/Lab05_upload.html" />
+        <option value="$PROJECT_DIR$/lab05_gallary.html" />
+        <option value="$PROJECT_DIR$/Lab06.html" />
+        <option value="$PROJECT_DIR$/DynamicStyleExample01.htm" />
+        <option value="$PROJECT_DIR$/js/lab06.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="40" />
-    <option name="y" value="23" />
+    <option name="y" value="61" />
     <option name="width" value="1400" />
     <option name="height" value="783" />
   </component>
@@ -86,7 +121,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -98,31 +132,13 @@
             <path>
               <item name="web_lab_17302010022" type="b2602c69:ProjectViewProjectNode" />
               <item name="web_lab_17302010022" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap-4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web_lab_17302010022" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web_lab_17302010022" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap-4" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web_lab_17302010022" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web_lab_17302010022" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap-4" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web_lab_17302010022" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web_lab_17302010022" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap-4" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap.js" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -131,10 +147,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/bootstrap-4/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -172,15 +194,23 @@
       <workItem from="1523887593489" duration="2729000" />
       <workItem from="1523950133882" duration="189000" />
       <workItem from="1523962125033" duration="826000" />
-      <workItem from="1523963017354" duration="258000" />
+      <workItem from="1523963017354" duration="333000" />
+      <workItem from="1523981179433" duration="850000" />
+      <workItem from="1524141870522" duration="217000" />
+      <workItem from="1525417456588" duration="7784000" />
+      <workItem from="1525425654236" duration="2116000" />
+      <workItem from="1525441999319" duration="151000" />
+      <workItem from="1525510253068" duration="1356000" />
+      <workItem from="1525672093278" duration="299000" />
+      <workItem from="1525762686482" duration="174000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24842000" />
+    <option name="totallyTimeSpent" value="37864000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="23" width="1400" height="783" extended-state="0" />
+    <frame x="40" y="61" width="1400" height="783" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -198,7 +228,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -213,139 +243,80 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lab05_gallary.html">
+    <entry file="file://$PROJECT_DIR$/Lab06.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-          <folding>
-            <element signature="e#5179#5185#0" expanded="true" />
-            <element signature="e#5190#5196#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab05_upload.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1380">
-          <caret line="92" column="26" lean-forward="true" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="26" />
+        <state relative-caret-position="150">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab05_gallary.html">
+    <entry file="file://$PROJECT_DIR$/js/lab06.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="300">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
           <folding>
-            <element signature="e#5179#5185#0" expanded="true" />
-            <element signature="e#5190#5196#0" expanded="true" />
+            <marker date="1525675437440" expanded="true" signature="469:934" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="490:531" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="551:595" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="634:724" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="655:686" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="763:874" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="784:836" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab05_upload.html">
+    <entry file="file://$PROJECT_DIR$/DynamicStyleExample01.htm" />
+    <entry file="file://$PROJECT_DIR$/js/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1680">
-          <caret line="112" column="61" lean-forward="false" selection-start-line="112" selection-start-column="61" selection-end-line="112" selection-end-column="61" />
+        <state relative-caret-position="30">
+          <caret line="2" column="136" lean-forward="false" selection-start-line="2" selection-start-column="136" selection-end-line="2" selection-end-column="136" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab05_gallary.html">
+    <entry file="file://$PROJECT_DIR$/css/Lab06.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#5179#5185#0" expanded="true" />
-            <element signature="e#5190#5196#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab05_upload.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1680">
-          <caret line="112" column="61" lean-forward="true" selection-start-line="112" selection-start-column="61" selection-end-line="112" selection-end-column="61" />
+        <state relative-caret-position="1200">
+          <caret line="80" column="27" lean-forward="false" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab05_gallary.html">
+    <entry file="file://$PROJECT_DIR$/Lab06.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#5179#5185#0" expanded="true" />
-            <element signature="e#5190#5196#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab05_upload.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1620">
-          <caret line="108" column="0" lean-forward="true" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab05_gallary.html">
+    <entry file="file://$PROJECT_DIR$/js/lab06.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
           <folding>
-            <element signature="e#5179#5185#0" expanded="true" />
-            <element signature="e#5190#5196#0" expanded="true" />
+            <marker date="1525675437440" expanded="true" signature="469:934" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="490:531" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="551:595" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="634:724" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="655:686" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="763:874" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="784:836" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab05_upload.html">
+    <entry file="file://$PROJECT_DIR$/js/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="30">
+          <caret line="2" column="136" lean-forward="false" selection-start-line="2" selection-start-column="136" selection-end-line="2" selection-end-column="136" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab05_gallary.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#5179#5185#0" expanded="true" />
-            <element signature="e#5190#5196#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab05_upload.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab05_gallary.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#5179#5185#0" expanded="true" />
-            <element signature="e#5190#5196#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap-4/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab05_upload.html">
+    <entry file="file://$PROJECT_DIR$/Lab06.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
@@ -353,33 +324,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab05_gallary.html">
+    <entry file="file://$PROJECT_DIR$/js/lab06.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        <state relative-caret-position="225">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
           <folding>
-            <element signature="e#5179#5185#0" expanded="true" />
-            <element signature="e#5190#5196#0" expanded="true" />
+            <marker date="1525675437440" expanded="true" signature="469:934" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="490:531" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="551:595" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="634:724" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="655:686" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="763:874" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="784:836" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab05_upload.html">
+    <entry file="file://$PROJECT_DIR$/css/Lab06.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1200">
+          <caret line="80" column="27" lean-forward="false" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab05_upload.html">
+    <entry file="file://$PROJECT_DIR$/js/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="30">
+          <caret line="2" column="136" lean-forward="false" selection-start-line="2" selection-start-column="136" selection-end-line="2" selection-end-column="136" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/Lab06.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab06.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lab06.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding>
+            <marker date="1525675437440" expanded="true" signature="469:934" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="490:531" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="551:595" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="634:724" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="655:686" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="763:874" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="784:836" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab05_gallary.html" />
+    <entry file="file://$PROJECT_DIR$/Lab05_upload.html" />
+    <entry file="file://$PROJECT_DIR$/lab05_gallary.html" />
+    <entry file="file://$PROJECT_DIR$/Lab05_upload.html" />
+    <entry file="file://$PROJECT_DIR$/lab05_gallary.html" />
+    <entry file="file://$PROJECT_DIR$/Lab05_upload.html" />
+    <entry file="file://$PROJECT_DIR$/lab05_gallary.html" />
+    <entry file="file://$PROJECT_DIR$/Lab05_upload.html" />
+    <entry file="file://$PROJECT_DIR$/lab05_gallary.html" />
+    <entry file="file://$PROJECT_DIR$/Lab05_upload.html" />
+    <entry file="file://$PROJECT_DIR$/lab05_gallary.html" />
+    <entry file="file://$PROJECT_DIR$/Lab05_upload.html" />
+    <entry file="file://$PROJECT_DIR$/lab05_gallary.html" />
+    <entry file="file://$PROJECT_DIR$/Lab05_upload.html" />
+    <entry file="file://$PROJECT_DIR$/lab05_gallary.html" />
+    <entry file="file://$PROJECT_DIR$/Lab05_upload.html" />
+    <entry file="file://$PROJECT_DIR$/lab05_gallary.html" />
+    <entry file="file://$PROJECT_DIR$/Lab05_upload.html" />
+    <entry file="file://$PROJECT_DIR$/lab05_gallary.html" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-4/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab05_upload.html" />
+    <entry file="file://$PROJECT_DIR$/lab05_gallary.html" />
+    <entry file="file://$PROJECT_DIR$/Lab05_upload.html" />
+    <entry file="file://$PROJECT_DIR$/Lab05_upload.html" />
     <entry file="file://$PROJECT_DIR$/bootstrap-4/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2803">
@@ -404,22 +442,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab05_gallary.html">
+    <entry file="file://$PROJECT_DIR$/Lab05_upload.html" />
+    <entry file="file://$PROJECT_DIR$/lab05_gallary.html" />
+    <entry file="file://$PROJECT_DIR$/images/canada1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-          <folding>
-            <element signature="e#5179#5185#0" expanded="true" />
-            <element signature="e#5190#5196#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="136" lean-forward="false" selection-start-line="2" selection-start-column="136" selection-end-line="2" selection-end-column="136" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab05_upload.html">
+    <entry file="file://$PROJECT_DIR$/DynamicStyleExample01.htm" />
+    <entry file="file://$PROJECT_DIR$/Lab06.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="88" column="49" lean-forward="false" selection-start-line="88" selection-start-column="49" selection-end-line="88" selection-end-column="49" />
+        <state relative-caret-position="195">
+          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/Lab06.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="80" column="27" lean-forward="false" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lab06.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="20" column="31" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <marker date="1525675437440" expanded="true" signature="469:934" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="490:531" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="551:595" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="634:724" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="655:686" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="763:874" ph="..." />
+            <marker date="1525675437440" expanded="true" signature="784:836" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
