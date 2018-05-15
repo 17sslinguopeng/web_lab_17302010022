@@ -21,6 +21,7 @@ window.onload=function () {
     commitButton.onclick=function () {
       commit()
     }
+    commitButton.style.display="none";
 };
  function commit() {
 
@@ -147,8 +148,10 @@ function firstSelectChange() {
 
      input.innerHTML="";
 
-    if (value == "SELECT ONE") input.innerHTML == "";
-
+    if (value == "SELECT ONE") {
+        commitButton.style.display="none";
+        input.innerHTML == "";
+    }
     if (value == "CREATE TABLE") {
 
 
