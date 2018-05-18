@@ -194,10 +194,11 @@ function firstSelectChange() {
     }
 }
 function secondSelectChange() {
-     showTable.innerHTML="";firstSelect.onchange();
+     showTable.innerHTML="";
     if (secondSelect.value == "SELECT(default: last created)") return;
     let index = secondSelect.selectedIndex-1;
     preTable = tables[index];
+    firstSelect.onchange();
     showTable.appendChild(preTable);
     // for (let i=1;i<=tablesNum;i++)
     // {
