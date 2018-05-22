@@ -22,7 +22,7 @@ function outputPostRow($number)  {
                         </div>
                         <div class=\"col-md-8\">
                             <h2>{${title.$number}}</h2>
-                            <div class=\"details\">Posted by ".generateLink("user.php?id={${user.$number}}","{${username.$number}}","").
+                            <div class=\"details\">Posted by ".generateLink("user.php?id={${user.$number}}","{${userName.$number}}","").
                                " <span class=\"pull-right\">{${date.$number}}</span>
                                 <p class=\"ratings\">".
                                  constructRating(${reviewsRating.$number}).
