@@ -19,7 +19,7 @@
 <body>
     <!-- include header here -->
 
-    <?php //include 'header.inc.php'; ?>
+    <?php include 'header.inc.php'; ?>
 
     <!-- Page Content -->
     <main class="container">
