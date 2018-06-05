@@ -16,29 +16,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Lab09.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lab09/Lab09.php">
+      <file leaf-file-name="Lab10.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab10/Lab10.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+            <state relative-caret-position="15">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lab09.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab09/Lab09.html">
+      <file leaf-file-name="Lab08.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab08/Lab08.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            <state relative-caret-position="363">
+              <caret line="35" column="44" lean-forward="true" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="travel-data.inc.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab09/travel-data.inc.php">
+      <file leaf-file-name="travel-small.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab10/sql/travel-small.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+            <state relative-caret-position="29685">
+              <caret line="1979" column="170" selection-start-line="1979" selection-start-column="170" selection-end-line="1979" selection-end-column="170" />
             </state>
           </provider>
         </entry>
@@ -77,6 +77,8 @@
         <option value="$PROJECT_DIR$/js/lab07.js" />
         <option value="$PROJECT_DIR$/lab08/functions.inc.php" />
         <option value="$PROJECT_DIR$/lab09/Lab09.php" />
+        <option value="$PROJECT_DIR$/lab08/Lab08.php" />
+        <option value="$PROJECT_DIR$/lab10/Lab10.php" />
       </list>
     </option>
   </component>
@@ -123,7 +125,18 @@
             <path>
               <item name="web_lab_17302010022" type="b2602c69:ProjectViewProjectNode" />
               <item name="web_lab_17302010022" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="lab08" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web_lab_17302010022" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web_lab_17302010022" type="462c0819:PsiDirectoryNode" />
+              <item name="lab10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web_lab_17302010022" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web_lab_17302010022" type="462c0819:PsiDirectoryNode" />
+              <item name="lab10" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -212,14 +225,19 @@
       <workItem from="1526969272758" duration="42000" />
       <workItem from="1527407145627" duration="1557000" />
       <workItem from="1527486950857" duration="154000" />
+      <workItem from="1527596958584" duration="172000" />
+      <workItem from="1527918300129" duration="9037000" />
+      <workItem from="1528008885158" duration="1519000" />
+      <workItem from="1528184786212" duration="239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88785000" />
+    <option name="totallyTimeSpent" value="99752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="61" width="1400" height="783" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -256,9 +274,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lab05_gallary.html" />
-    <entry file="file://$PROJECT_DIR$/Lab05_upload.html" />
-    <entry file="file://$PROJECT_DIR$/lab05_gallary.html" />
     <entry file="file://$PROJECT_DIR$/Lab05_upload.html" />
     <entry file="file://$PROJECT_DIR$/lab05_gallary.html" />
     <entry file="file://$PROJECT_DIR$/Lab05_upload.html" />
@@ -342,13 +357,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab08/fonts/functions.inc.php" />
-    <entry file="file://$PROJECT_DIR$/lab08/Lab08.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab08/travel-data.inc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -357,27 +365,27 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab09/left.inc.php" />
+    <entry file="file://$PROJECT_DIR$/lab08/header.inc.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/lab08/functions.inc.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab08/Lab08.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        <state relative-caret-position="552">
+          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab08/header.inc.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab09/travel-data.inc.php">
+    <entry file="file://$PROJECT_DIR$/lab09/Lab09.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        <state relative-caret-position="15">
+          <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -388,10 +396,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab09/Lab09.php">
+    <entry file="file://$PROJECT_DIR$/lab09/travel-data.inc.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+        <state relative-caret-position="570">
+          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab10/functions.inc.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab10/sql/travel-small.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29685">
+          <caret line="1979" column="170" selection-start-line="1979" selection-start-column="170" selection-end-line="1979" selection-end-column="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab10/Lab10.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab08/Lab08.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="35" column="44" lean-forward="true" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
         </state>
       </provider>
     </entry>
