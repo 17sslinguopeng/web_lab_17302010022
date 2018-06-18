@@ -63,7 +63,21 @@ function changeSong() {
         })
 }
 function last() {
+    let index = document.getElementById("songSelect").selectedIndex;
+    if (index==0){return;}
+    index = index-1;
+    document.getElementById("songSelect").options[index].selected = true;
+    changeSong();
+}
+function next() {
 
+    let index = document.getElementById("songSelect").selectedIndex;
+    let l = document.getElementById("songSelect").children.length;
+
+    if (index==l-1){return;}
+    index = index+1;
+    document.getElementById("songSelect").options[index].selected = true;
+    changeSong();
 }
 function getSeconds(s){
 
